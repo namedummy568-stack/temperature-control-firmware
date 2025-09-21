@@ -2,6 +2,7 @@
 void setup() {
   Serial.begin(9600);
   // Initialize temperature sensor
+  // Added for calibration fix
 }
 
 void loop() {
